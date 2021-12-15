@@ -23,7 +23,7 @@ html {
 .btn{
   height: 4rem;
   width: 14rem;
-  background:blue;
+  background:rgb(31, 31, 230);
   color:#fff;
   font-size: 2rem;
   cursor: pointer;
